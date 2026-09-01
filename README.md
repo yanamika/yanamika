@@ -90,8 +90,6 @@ SD-Smart Data Books (SDBooks) is a healthcare application supporting therapy-rel
 * Conduct product demonstrations and feature walkthroughs
 * Collaborate with developers and stakeholders to resolve issues and improve product quality
 
-> 🔒 Company/client-specific test cases, data, screenshots, and internal project information are not published publicly.
-
 ---
 
 ## 📚 Currently Learning
